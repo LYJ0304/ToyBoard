@@ -1,4 +1,4 @@
 package com.example.board.service;
 
-public class BoardEntity {
+public class BoardService {
 }
